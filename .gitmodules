@@ -1,0 +1,3 @@
+[submodule "submodules/conflict-mini-examples"]
+	path = submodules/conflict-mini-examples
+	url = https://github.com/relyss/conflict-mini-examples.git
